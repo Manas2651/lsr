@@ -37,6 +37,7 @@ function App() {
       <header>
         <h1><img src='	https://thumbs.dreamstime.com/b/lsr-letter-logo-de…nd-creative-initials-circle-concept-256306161.jpg' alt='LSR'></img></h1>
         <SignOut />
+        <title>Laxmi Shyam Resi.....</title>
       </header>
 
       <section>
