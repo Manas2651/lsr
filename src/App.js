@@ -35,9 +35,9 @@ function App() {
   return (
     <div className="App">
       <header>
+        <title>LSR CHAT</title>
         <h1><img src='	https://thumbs.dreamstime.com/b/lsr-letter-logo-de…nd-creative-initials-circle-concept-256306161.jpg' alt='LSR'></img></h1>
         <SignOut />
-        <title>Laxmi Shyam Resi.....</title>
       </header>
 
       <section>
@@ -58,7 +58,7 @@ function SignIn() {
   return (
     <>
       <button className="sign-in" onClick={signInWithGoogle}>Sign in with Google</button>
-      <p>     Always Try To Be respectfull! 😃 </p>
+      <p> Made By Manas From A-405 😃 </p>
     </>
   )
 
